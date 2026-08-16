@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20There,%20I'm%20Rindhya%20JS&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Analytics%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20There%2C%20I%27m%20Rindhya%20JS&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Analytics%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=55&descSize=17" width="100%" alt="Rindhya JS banner"/>
+
+# Hi there, I'm Rindhya JS 👋
 
 <a href="https://github.com/RindhyaJS">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Science+Graduate;Data+Pipelines+%7C+EDA+%7C+Predictive+Modeling;Building+Interactive+Analytical+Dashboards&font=Fira+Code&center=true&width=650&height=40&color=2575fc&vCenter=true&size=20&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Science+Graduate;Data+Pipelines+%7C+EDA+%7C+Predictive+Modeling;Building+Interactive+Analytical+Dashboards&font=Fira+Code&center=true&width=650&height=40&color=2575fc&vCenter=true&size=20&pause=1200" alt="Typing animation"/>
 </a>
 
 </div>
