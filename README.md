@@ -1,4 +1,4 @@
-![Rindhya JS banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Rindhya%20JS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+![Rindhya JS banner](./banner.svg)
 
 # Hi there, I'm Rindhya JS 👋
 
@@ -41,6 +41,9 @@ AI & Data Science (B.Tech) graduate with hands-on experience building end-to-end
 - 🏗️ **[Modern Data Warehouse for Analytics](https://github.com/RindhyaJS/SQL-Data-Warehouse-Project-01)**
 *Architected a multi-layered data warehouse (Bronze, Silver, Gold) using SQL-based ETL procedures for data ingestion, cleaning, and dimensional modeling.*
 
+- 🔍 **[SQL Data Analysis Project](https://github.com/RindhyaJS/SQL_Data_Analysis_Project)**
+*Performed exploratory and advanced SQL-based data analysis — writing analytical queries with joins, window functions, CTEs, and aggregations to extract business insights from raw data.*
+
 ---
 
 ### 🎓 Experience & Training
@@ -58,6 +61,4 @@ AI & Data Science (B.Tech) graduate with hands-on experience building end-to-end
 - **Email:** rindhyarindhya7@gmail.com
 - **Location:** Bengaluru, Karnataka, India
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
-</div>
+![footer](./footer.svg)
